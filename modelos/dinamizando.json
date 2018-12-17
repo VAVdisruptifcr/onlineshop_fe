@@ -1,0 +1,23 @@
+[{
+		"red": "fab-facebook",
+		"estilo": "facebookBlanco",
+		"url": "http://facebook.com"
+	}, {
+		"red": "fab-youtube",
+		"estilo": "youtubeBlanco",
+		"url": "http://youtube.com"
+	}, {
+		"red": "fab-twitter",
+		"estilo": "twitterBlanco",
+		"url": "http://twitter.com"
+	}, {
+		"red": "fab-google-plus",
+		"estilo": "googleBlanco",
+		"url": "http://google.com"
+	}, {
+		"red": "fab-instagram",
+		"estilo": "instagramBlanco",
+		"url": "http://instagram.com"
+	}
+
+]
